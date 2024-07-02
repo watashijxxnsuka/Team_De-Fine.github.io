@@ -18,7 +18,7 @@ Team De-fine은 기술에 대한 열정을 공유하며 함께 성장하는 것�
 ## 연락처
 궁금한 점이나 프로젝트 문의가 있으시면 언제든지 연락주세요.
 
-- **Email**: [jxxn2538@gamil.com](mailto:jxxn2538@gmail.com)
+- **Email**: [jxxn2538@gmail.com](mailto:jxxn2538@gmail.com)
 - **GitHub**: [github.com/watashijxxnsuka]([https://github.com/watashijxxnsuka](https://github.com/watashijxxnsuka))
 - **Instagram**: [instagram.com/watashijxxnsuka](https://instagram.com/watashijxxnsuka)
 
