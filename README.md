@@ -1,6 +1,7 @@
 # Team De-fine
 
-[Team De-fine](https://watashijxxnsuka.github.io/Team_De-Fine.github.io/)은 다양한 프로젝트를 개발하고 새로운 기술들을 공부하는 열정적인 팀입니다. 2023년 6월에 창립된 이래, 우리는 끊임없이 성장하고 발전하며, 혁신적인 아이디어와 기술을 통해 세상에 긍정적인 변화를 만들고자 합니다.
+[Team De-fine](https://watashijxxnsuka.github.io/Team_De-Fine.github.io/)은 다양한 프로젝트를 개발하고 새로운 기술들을 공부하는 열정적인 팀입니다. <br>
+2023년 6월에 창립된 이래, 우리는 끊임없이 성장하고 발전하며, 혁신적인 아이디어와 기술을 통해 세상에 긍정적인 변화를 만들고자 합니다.
 
 ## 주요 프로젝트
 
