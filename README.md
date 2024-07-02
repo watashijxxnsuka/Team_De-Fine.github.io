@@ -5,7 +5,7 @@
 ## 주요 프로젝트
 
 ### MPol - 포트폴리오 공유 사이트
-![MPol Project](https://watashijxxnsuka.github.io/MPol.github.io/)
+[MPol Project](https://watashijxxnsuka.github.io/MPol.github.io/)
 MPol은 사용자들이 자신의 포트폴리오를 쉽게 공유하고, 다른 사용자들의 작품을 감상하며 피드백을 주고받을 수 있는 플랫폼입니다. 이 프로젝트를 통해 우리는 사용자 경험과 인터페이스 디자인, 백엔드 개발 등 다양한 기술을 연마하고 있습니다.
 
 ## 팀 소개
